@@ -1,0 +1,6 @@
+tensorflow
+streamlit
+numpy
+pillow
+pyserial
+opencv-python

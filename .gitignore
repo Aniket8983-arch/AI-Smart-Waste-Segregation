@@ -1,0 +1,17 @@
+# Ignore dataset
+dataset/
+
+# Ignore logs
+waste_log.csv
+
+# Ignore virtual env
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
