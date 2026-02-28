@@ -190,11 +190,10 @@ Features:
 Due to file size limitations, the trained model is not included in the repository.
 
 Download here:
-[Google Drive Link]
+https://drive.google.com/file/d/1iK7jvSfYGHCvXhUvm1KGsVtuS3Wo4Z-w/view?usp=sharing
 
 ## 👨‍💻 Team SNAPSORT
  
-
 Global Innovation AI – Environment Theme
 
 ---
