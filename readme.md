@@ -185,14 +185,17 @@ Features:
 
 ---
 
+## Model
+
+Due to file size limitations, the trained model is not included in the repository.
+
+Download here:
+[Google Drive Link]
+
 ## 👨‍💻 Team SNAPSORT
+ 
 
-- Aniket Patil  
-- Anjali Shinde  
-- Sharvari Nalawade  
-- Chaitanya Jagtap  
-
-TECHATHON 2026 – Environment Theme
+Global Innovation AI – Environment Theme
 
 ---
 
