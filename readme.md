@@ -1,5 +1,5 @@
 # ♻ AI Smart Waste Segregation & Collection System  
-### TECHATHON 2026 | Team SNAPSORT  
+### Global Innovation AI 2026 | Team SNAPSORT  
 
 > “AI-driven automation for sustainable waste management.”
 
